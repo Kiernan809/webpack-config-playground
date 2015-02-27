@@ -1,0 +1,17 @@
+{
+  "name": "d3",
+  "version": "0.0.0",
+  "authors": [
+    "Kiernan809 <lee.kiernan@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

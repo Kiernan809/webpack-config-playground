@@ -1,0 +1,6 @@
+npm-debug.log
+bower_components/
+node_modules/
+build/
+dist/
+__compile/
